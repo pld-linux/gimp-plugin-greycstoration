@@ -1,5 +1,5 @@
 Summary:	GREYCstoration plugin for GIMP
-Summary(pl):	Wtyczka GREYCstoration dla GIMP-a
+Summary(pl.UTF-8):   Wtyczka GREYCstoration dla GIMP-a
 Name:		gimp-plugin-greycstoration
 Version:	0.2.0
 Release:	1
@@ -21,18 +21,18 @@ Tschumperle from GREYC laboratory (at Caen in France). Current version
 of the plugin only supports the restoration functionality, but the
 algorithm can also do great picture resize or good inpainting.
 
-%description -l en
+%description -l en.UTF-8
 GREYCstoration is a GIMP plugin using the algorithm written by David
-Tschumperlé from GREYC laboratory (at Caen in France). Current version
+TschumperlÃ© from GREYC laboratory (at Caen in France). Current version
 of the plugin only supports the restoration functionality, but the
 algorithm can also do great picture resize or good inpainting.
 
-%description -l pl
-GREYCstoration to wtyczka GIMP-a u¿ywaj±ca algorytmu napisanego przez
-Davida Tschumperlé z laboratorium GREYC (w Caen we Francji). Aktualna
-wersja wtyczki obs³uguje tylko funkcjonalno¶æ restaurowania, ale
-algorytm mo¿na wykorzystaæ tak¿e do przeskalowywania i domalowywania
-obrazów.
+%description -l pl.UTF-8
+GREYCstoration to wtyczka GIMP-a uÅ¼ywajÄ…ca algorytmu napisanego przez
+Davida TschumperlÃ© z laboratorium GREYC (w Caen we Francji). Aktualna
+wersja wtyczki obsÅ‚uguje tylko funkcjonalnoÅ›Ä‡ restaurowania, ale
+algorytm moÅ¼na wykorzystaÄ‡ takÅ¼e do przeskalowywania i domalowywania
+obrazÃ³w.
 
 %prep
 %setup -q -n greycstoration-%{version}
