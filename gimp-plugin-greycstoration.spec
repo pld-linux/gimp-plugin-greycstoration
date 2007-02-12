@@ -1,5 +1,5 @@
 Summary:	GREYCstoration plugin for GIMP
-Summary(pl.UTF-8):   Wtyczka GREYCstoration dla GIMP-a
+Summary(pl.UTF-8):	Wtyczka GREYCstoration dla GIMP-a
 Name:		gimp-plugin-greycstoration
 Version:	0.2.0
 Release:	1
